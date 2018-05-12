@@ -26,7 +26,14 @@ There are perconfigured Azure Data Science VM's allready created for you.  You w
 
    * Download and install Docker
      * https://store.docker.com/editions/community/docker-ce-desktop-windows
-     
+     * After Install of Docker, you need to click on the Docker Icon in the system try 
+     * Select 'Switch to Windows Containers'
+     * This will enable Hyper-V and re-boot your machine
+     * Once back in, click on the Docker icon and select 'Switch to Windows Containers' again
+     * This **WILL Fail**
+     * **Choose Re-Set to Factory Defaults**
+     * When you seee the Docker welcome you are ready to go.
+          
    * Install Azure ML Workbench
       * There is a shortcut on the desktop to install the workbench
       
