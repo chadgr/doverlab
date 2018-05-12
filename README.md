@@ -106,6 +106,16 @@ This the start where you will create Azure machine learning services in your Azu
   **Passowred:** Dover2018#
   
   
+  # Lab 5 (lab 4.1 of the larger course)
+  This lab will show how to manage operationalization of models.  This lab will show how to regert test models.
+  
+  https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab04.1-managing_models_with_aml/0_README.md
+  
+  # Lab 6 (lab 4.2 of the larger course)
+  This lab will expand on the previouse lab and actualy depoly the model to as a web service on a cluster for production.
+  
+  https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab04.2-deploying_a_scoring_service_to_aks/0_README.md
+  
   
   
   
