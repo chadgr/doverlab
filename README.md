@@ -107,7 +107,9 @@ This the start where you will create Azure machine learning services in your Azu
   
   
   # Lab 5 (lab 4.1 of the larger course)
-  This lab will show how to manage operationalization of models.  This lab will show how to regert test models.
+  This lab will show how to manage operationalization of models.  This lab will show how to regester test models.
+  
+  **Note:** You do not need to register the Azure providers.  You can skip that step.  You can list the providers to make sure they are registered.
   
   https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab04.1-managing_models_with_aml/0_README.md
   
