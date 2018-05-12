@@ -68,6 +68,8 @@ This the start where you will create Azure machine learning services in your Azu
   
   Please follow the instructions for this lab here: https://azure.github.io/LearnAI-Bootcamp/lab03.2-compare_and_choose_models/0_README
   
+  **NOTE:**  There are some challenges with Docker containers on windows sometimes.  Please see a proctor for help if you can not get your experiement to run in a container.  
+  
   
     
   
