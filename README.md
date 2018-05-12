@@ -83,11 +83,11 @@ This the start where you will create Azure machine learning services in your Azu
   Pelase follow the instructions of this lab here: https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab03.3_manage_conda_envs_in_aml/0_README.md
   
   # Lab 3 (lab 3.4 of the larger course)
-  Do not create the azure linux machine, one is allready created.
+  **Do not create the azure linux machine**, one is allready created.  There is allready a linux VM that everyone in the class can use setup for remote execution.  Follow this lab and do everything **Except** creating the VM.  Connection information below:
   
-  doverremotedocker
-  labuser
-  Dover2018#
+  **IP:**  doverremotedocker
+  **User:** labuser
+  **Passowred:** Dover2018#
   
     
   
