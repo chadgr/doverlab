@@ -87,13 +87,23 @@ This the start where you will create Azure machine learning services in your Azu
   
   https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab03.4-execute_in_remote_environment/0_README.md
   
-  **IP:**  doverremotedocker
+  **IP:**  
   
   **User:** labuser
   
   **Passowred:** Dover2018#
   
-    
+   
+   # Lab 4 (lab 3.5 of the larger course)
+   This lab will be simular to the last one only this time we will execute against a VM running GPU's.  Again a central VM has been created for everyone to use.
+  
+  https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab03.5-execute_remote_gpu/0_README.md
+  
+  **IP:**  
+  
+  **User:** labuser
+  
+  **Passowred:** Dover2018#
   
   
   
