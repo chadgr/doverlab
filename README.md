@@ -44,8 +44,8 @@ There are perconfigured Azure Data Science VM's allready created for you.  You w
 # Create Azure Machien Learning Services
 This the start where you will create Azure machine learning services in your Azure accounts.  j
   * Loign to [Azure Portal](http://portal.azure.com)
-  * User: labuser{x}@doverailaboutlook.onmicrosoft.com - replace {x} with your lab number assigned.
-  * Passowrd: Doverlab2018#
+  * **User:** labuser{x}@doverailaboutlook.onmicrosoft.com - replace {x} with your lab number assigned.
+  * **Passowrd:** Doverlab2018#
   * Press '+ Create a resource' in the upper left hand corner of the portal
   * Pick 'AI + Cognitive Services' from the left hand side of the Azure Market Place column
   * Click - 'Machine Learning Experimentation' 
@@ -59,6 +59,14 @@ This the start where you will create Azure machine learning services in your Azu
     * **Create Model Mangement Account:** - Keep checked.
     * **Model Pricing Tier:**  Select Devtest
     * **Press Create**
+  
+  # Start the hands on labs
+  The labs we will be doing for this session is a sub-set of a 4-5 day course.  All the labs for the entire 4-5 course are available here: https://azure.github.io/LearnAI-Bootcamp.  Plese **DO NOT** go there there now.  This link is just for your reference for later.  Fell free to do any of the labs after our session here at the MTC.
+  
+  # Lab 1 (lab 3.2 of the larger course)
+  We are going to start with lab 3.2 of the larger Azure AI course.  This lab will show us how to connect to an Azure ML workspace, run experientments locally and in a Docker container.  We will also see how to run multipul experiments and see how easy it is to compare the results.
+  
+  Please follow the instructions for this lab here: https://azure.github.io/LearnAI-Bootcamp/lab03.2-compare_and_choose_models/0_README
   
   
     
