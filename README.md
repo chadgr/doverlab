@@ -70,6 +70,17 @@ This the start where you will create Azure machine learning services in your Azu
   
   **NOTE:**  There are some challenges with Docker containers on windows sometimes.  Please see a proctor for help if you can not get your experiement to run in a container.  
   
+  # Lab 2 (lab 3.3 of the larger course)
+  Azure ML usese both Conda and Docker together to tightly align configureations and ensure consistancy across depolyments.  
+  
+  Pelase follow the instructions of this lab here: https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab03.3_manage_conda_envs_in_aml/0_README.md
+  
+  # Lab 3 (lab 3.4 of the larger course)
+  Do not create the azure linux machine, one is allready created.
+  
+  doverremotedocker
+  labuser
+  Dover2018#
   
     
   
