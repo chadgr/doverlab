@@ -48,7 +48,7 @@ There are perconfigured Azure Data Science VM's allready created for you.  You w
   * Review Azure environemnt setup for the labs
   * Review the labs that we will go through at a high level
 
-# Create Azure Machien Learning Services
+# Create Azure Machine Learning Services
 This the start where you will create Azure machine learning services in your Azure accounts.  j
   * Loign to [Azure Portal](http://portal.azure.com)
   * **User:** labuser{x}@doverailaboutlook.onmicrosoft.com - replace {x} with your lab number assigned.
