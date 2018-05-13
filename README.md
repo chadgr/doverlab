@@ -25,13 +25,21 @@ There are perconfigured Azure Data Science VM's allready created for you.  You w
    * Open a browser to this web page and follow along from the VM.
 
    * Download and install Docker
-     * https://store.docker.com/editions/community/docker-ce-desktop-windows
+   
+     * https://store.docker.com/editions/community/docker-ce-desktop-windows
+     
      * After Install of Docker, you need to click on the Docker Icon in the system try 
+     
      * Select 'Switch to Windows Containers'
+     
      * This will enable Hyper-V and re-boot your machine
+     
      * Once back in, click on the Docker icon and select 'Switch to Windows Containers' again
+     
      * This **WILL Fail**
+     
      * **Choose Re-Set to Factory Defaults**
+     
      * When you seee the Docker welcome you are ready to go.
           
    * Install Azure ML Workbench
@@ -118,7 +126,13 @@ This the start where you will create Azure machine learning services in your Azu
   
   https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab04.2-deploying_a_scoring_service_to_aks/0_README.md
   
+  # Context Setting
+  Short discussion on Microsof ML Server vs. Azure ML Services.  Discuss the differences and set context for the next lab.
   
+  # Lab 7 (this is a lab out side the larger course)
+  This lab will now show how to deploy operational web services for modles using R rather than Python using Microsoft ML server.  
   
+  You will need the following information for this lab:
   
-  
+  `remoteLogin("http://doverdeploy.westcentralus.cloudapp.azure.com:12800", username = "admin", password = "<your onebox password>")`
+  * 
