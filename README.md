@@ -134,7 +134,7 @@ This the start where you will create Azure machine learning services in your Azu
   
   You will need the following information for this lab:
   
-  `remoteLogin("http://doverdeploy.westcentralus.cloudapp.azure.com:12800", username = "admin", password = "<your onebox password>")`
+  `remoteLogin("http://doverdeploy.westcentralus.cloudapp.azure.com:12800", username = "admin", password = "Doverlab2018#")`
   
   Follow the lab here:
   
